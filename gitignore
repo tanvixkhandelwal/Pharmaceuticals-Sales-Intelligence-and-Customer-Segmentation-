@@ -1,0 +1,48 @@
+# =====================
+# OS / Editor junk
+# =====================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs / Temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# =====================
+# SQL files
+# =====================
+# Backup & generated files
+*.bak
+*.sql~
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# =====================
+# Python/R 
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+.Rhistory
+.RData
+.Rproj.user/
+
+# =====================
+# Misc
+# =====================
+# Node modules
+node_modules/
+
+# Output files
+/output/*.csv
+/output/*.xlsx
