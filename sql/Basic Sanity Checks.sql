@@ -1,8 +1,7 @@
 
-/* =====================================================
+/* 
   3) Basic sanity aggregates
-     Quick high-level views to check business sense
-===================================================== */
+ */
 
 --1. Total sales by year and channel
 
@@ -33,3 +32,4 @@ SELECT TOP (10)
 FROM sales_enriched
 GROUP BY product_name, product_class
 ORDER BY total_quantity DESC,total_sales DESC
+
