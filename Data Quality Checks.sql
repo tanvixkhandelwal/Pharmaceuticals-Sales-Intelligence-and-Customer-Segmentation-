@@ -1,7 +1,6 @@
-/* =====================================================
+/*
   2) Data quality checks
-     Run these to identify import issues (run as a block).
-===================================================== */
+ */
 
 -- A: row counts
 SELECT 'fact_sales' AS table_name, COUNT(*) AS rows FROM fact_sales;
@@ -31,4 +30,5 @@ SELECT
   SUM(CASE WHEN quantity <= 0 THEN 1 ELSE 0 END) AS zero_or_negative_qty,
   SUM(CASE WHEN sales <= 0 THEN 1 ELSE 0 END) AS zero_or_negative_sales
 FROM fact_sales;
+
 
