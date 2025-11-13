@@ -151,6 +151,20 @@ The project followed a structured multi-step analytical process to transform raw
 5. Refer to the **PDF version** of the dashboard if Power BI Desktop is not installed.  
 6. Check the **Data Dictionary** (`data_dictionary.md`) and **ERD diagram** (`/images`) for the data model and field-level documentation.
 
+---
+
+
+##  Contact  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanvikhandelwal30)  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tanvikhandelwal14@gmail.com)  
+
+
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-TSQL-blue?logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX-yellow?logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoftexcel&logoColor=white)
+
+
 
 
 
