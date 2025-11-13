@@ -27,7 +27,7 @@ Foresight Pharmaceuticals is one of the leading Pharmaceutical Manufacturing com
 
 ## **Business Objective**
 
-The primary goal of this project is to build a unified analytics and visualization system that empowers PharmaCorp to make data-driven decisions across its global sales and distribution network.  
+The primary goal of this project is to build a unified analytics and visualization system that empowers Foresight Pharmaceuticals to make data-driven decisions across its global sales and distribution network.  
 The solution aims to:
 
 - Evaluate overall sales performance across products, geographies, and sales teams.  
