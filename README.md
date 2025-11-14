@@ -138,7 +138,6 @@ The project followed a structured multi-step analytical process to transform raw
 - **Reactivate mid-value and at-risk customers** through loyalty programs, personalized offers, and improved distributor relationships to boost retention.  
 - **Reassess pricing strategies** for highly elastic product categories like *Mood Stabilizers* to prevent volume decline and improve margin stability.  
 - **Bundle frequently co-purchased products** (e.g., *Nevanide Actozide + Docstryl Rivacin*) into combo promotions to increase per-customer revenue.  
-- **Leverage Power BI dashboards** for monthly performance reviews, enabling managers to track growth, churn, and product trends in real time.
 
 ---
 
