@@ -44,7 +44,7 @@ The solution aims to:
 The dataset was modeled using a **star schema**, consisting of one fact table and multiple dimension tables for efficient querying and analysis.  
 The data dictionary provides detailed field-level information, data types, and relationships used in the project.  
 
-[View Full Data Dictionary →](data%20%dictionary.md)
+[View Full Data Dictionary →](data%20dictionary.md)
 
 ---
 
