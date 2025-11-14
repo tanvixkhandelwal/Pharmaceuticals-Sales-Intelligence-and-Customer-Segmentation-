@@ -144,11 +144,12 @@ The project followed a structured multi-step analytical process to transform raw
 ## **How to Use**
 
 1. **Clone or Download** this repository to your local system.  
-2. Open the **SQL files** inside the `/sql` folder in Microsoft SQL Server Management Studio (SSMS) to explore data modeling, analytics, and segmentation scripts.  
-3. Review the **sample outputs** in `/sql_sample_outputs` for a quick preview of analytical results.  
-4. Open the **Power BI Dashboard (`Pharmaceuticals Sales Analysis.pbix`)** inside the `/Dashboard` folder to interact with the visuals and KPIs.  
-5. Refer to the **PDF version** of the dashboard if Power BI Desktop is not installed.  
-6. Check the **Data Dictionary** (`data_dictionary.md`) and **ERD diagram** (`/images`) for the data model and field-level documentation.
+2. Open the **SQL files** inside the [`/sql`](./sql) folder in Microsoft SQL Server Management Studio (SSMS) to explore data modeling, analytics, and segmentation scripts.  
+3. Review the **sample outputs** in [`/sql_sample_outputs`](./sql_sample_outputs) for a quick preview of analytical results.  
+4. Open the **Power BI Dashboard** [`Pharmaceuticals Sales Analysis.pbix`](./Dashboard/Pharmaceuticals%20Sales%20Analysis.pbix) inside the `/Dashboard` folder to interact with the visuals and KPIs.  
+5. Refer to the **PDF version** of the dashboard [`Pharmaceuticals Sales Analysis.pdf`](./Dashboard/Pharmaceuticals%20Sales%20Analysis.pdf) if Power BI Desktop is not installed.  
+6. Check the **Data Dictionary** [`data_dictionary.md`](./data_dictionary.md) and **ERD diagram** [`/images`](./images) for the data model and field-level documentation.
+
 
 ---
 
